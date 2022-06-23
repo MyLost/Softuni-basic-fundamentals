@@ -17,7 +17,5 @@ public class CenturiesToMinutes {
 		
 		System.out.printf("%d centuries = %.0f years = %.0f days = %.0f hours = %.0f minutes",
 			centures, years, days,hours,minutes);
-		
 	}
-
 }
