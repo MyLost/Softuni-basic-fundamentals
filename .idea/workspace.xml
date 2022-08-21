@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b90c16cc-1ffe-4615-ac18-4bc8d17b1fa4" name="Changes" comment="task from basic course - softuni">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamnentalsExam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamnentalsExam/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamnentalsExam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/GreetingByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/InchConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/PetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/ProjectCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/RadiansToDegrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Repainting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/SuppliesForSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/USDToBGN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/VacationBooksList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/YardGreening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/Godzzila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/GreaterNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/HousePainting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/LunchBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/Number100200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/PasswordGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/SpeedInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/SumSeconds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/TimeMinutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/ToyShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/TrainingLab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/TrapeziodArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/TriangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/VegetableMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/WeatherForecast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/WeatherForecast2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/WorldSwimmingRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/advance/InvalidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/advance/NumberInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/advance/PersonalTitles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/advance/SmallShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/advance/TradeCommissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/advance/WeekendOrWorkingDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/checks/advance/WorkingHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/exam/GoldMine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/exam/MiningRig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/exam/PuppyCare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/exam/Spaceship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/group/Vacations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Graduation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/HalfSumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/LeftAndRightSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Moving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/NumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/NumberSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/NumberToNIn3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/NumbersEndingIn7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/NumbersFromNTo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/NumbersTo100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/OLD_BOOKS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/OddEvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Oscars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/PIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/ReadText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/SpecialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/SumOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/SumPrimeNonPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/TennisRanklist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/TrainTheTrainers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Travelling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/TrekkingMania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Vacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/VowelsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/loop/Walking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/Kamino1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/KaminoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/LadyBugs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/MagicSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/MaxSequenceOfEqualElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/PrintNumbersinReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/ReverseArrayOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/SumEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/TopIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/arrays/ZigZagArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/MonthPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/MultiplicationTable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/Padawan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/Passed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/PassedOrFailed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/PrintSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/RageExpenses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/RefactorSumofOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/SortNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/StrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/StudentInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/SumOfOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/TheatrePromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/TriangleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/Vacantion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/basics/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/IntegerOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/LowerOrUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/PokeMon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/PoundsToDollars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/PrintPartOfASCIITable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/RefactorSpecialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/RefactorVolumeOfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/ReversedChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/Snowballs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/SpecialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/SpiceMustFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/SumOfChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/TownInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/TriplesOfLatinLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/dataTypesAndVariables/WaterOverflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/exam/HeroRecruitment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/exam/MessageEncrypter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/exam/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/exams/mid/HeartDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/exams/mid/ShootForTheWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/exams/mid/SoftUniReception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/lists/HouseParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/lists/ListManipulationAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/lists/ListManipulationBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/lists/ListOfProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/lists/MergingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/lists/RemoveNegativesAndReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/lists/SumAdjacentEqualNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/lists/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/retake/mid/GoogleSearches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/retake/mid/GroceryShopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/retake/test/GuineaPig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/retake/test/MemoryGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/retake/test/MovingTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/retake/test/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/retake/test/PlantDiscovery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/retake/test/ShoppingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/retake/test/TheLift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/retake/test/WorldTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentals/test/StarEnigma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/VolatileExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29f8ZaGYIrLGoF3axuiERDsDzJF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "last_opened_file_path": "/home/midas/intelij/workspace/advance"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TestPaymentProvider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestPaymentProvider" />
+      <module name="basic-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPaymentProvider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b90c16cc-1ffe-4615-ac18-4bc8d17b1fa4" name="Changes" comment="" />
+      <created>1653492835366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653492835366</updated>
+    </task>
+    <task id="LOCAL-00001" summary="probe">
+      <created>1653493947296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653493947296</updated>
+    </task>
+    <task id="LOCAL-00002" summary="probe">
+      <created>1653494011940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653494011940</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task from basic course - softuni">
+      <created>1653494124377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653494124377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task from basic course - softuni">
+      <created>1653542179799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653542179799</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task from basic course - softuni">
+      <created>1653764266519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653764266519</updated>
+    </task>
+    <task id="LOCAL-00006" summary="task from basic course - softuni">
+      <created>1653832570663</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653832570663</updated>
+    </task>
+    <task id="LOCAL-00007" summary="task from basic course - softuni">
+      <created>1653996568010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653996568010</updated>
+    </task>
+    <task id="LOCAL-00008" summary="task from basic course - softuni">
+      <created>1654083856280</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654083856280</updated>
+    </task>
+    <task id="LOCAL-00009" summary="task from basic course - softuni">
+      <created>1654460249557</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654460249557</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task from basic course - softuni">
+      <created>1654502031112</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654502031112</updated>
+    </task>
+    <task id="LOCAL-00011" summary="task from basic course - softuni">
+      <created>1654716855397</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654716855397</updated>
+    </task>
+    <task id="LOCAL-00012" summary="task from basic course - softuni">
+      <created>1654786806972</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654786806972</updated>
+    </task>
+    <task id="LOCAL-00013" summary="task from basic course - softuni">
+      <created>1654931093410</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654931093410</updated>
+    </task>
+    <task id="LOCAL-00014" summary="task from basic course - softuni">
+      <created>1655029002682</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1655029002682</updated>
+    </task>
+    <task id="LOCAL-00015" summary="task from basic course - softuni">
+      <created>1655791959810</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1655791959810</updated>
+    </task>
+    <task id="LOCAL-00016" summary="task from basic course - softuni">
+      <created>1656005708936</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1656005708936</updated>
+    </task>
+    <task id="LOCAL-00017" summary="task from basic course - softuni">
+      <created>1656005748207</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656005748207</updated>
+    </task>
+    <task id="LOCAL-00018" summary="task from basic course - softuni">
+      <created>1656062033172</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1656062033172</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="probe" />
+    <MESSAGE value="task from basic course - softuni" />
+    <option name="LAST_COMMIT_MESSAGE" value="task from basic course - softuni" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/TestPaymentProvider.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
